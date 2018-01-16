@@ -14,7 +14,6 @@
 		<name>Roncoo</name>
 		<url>http://www.roncoo.com</url>
 	</organization>
-
 	<modules>
 		<!-- core 是支付系统核心基础包 -->
 		<module>roncoo-pay-common-core</module>
